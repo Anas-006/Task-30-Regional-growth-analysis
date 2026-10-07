@@ -1,0 +1,9 @@
+Rollback Evidence – Task 30
+
+The analysis was created using the original Superstore dataset without modifying the source data.
+
+All calculations, PivotTables, and charts were created in a separate Excel analysis workbook/sheet.
+
+If any analysis changes are required, the PivotTable, formulas, and charts can be removed or recreated while keeping the original dataset unchanged.
+
+The original source data remains available as the recovery point.
